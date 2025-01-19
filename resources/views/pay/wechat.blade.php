@@ -51,7 +51,7 @@
     </div>
     <div class="foot">
         <div class="inner">
-            <p><?php echo SYS_NAME ?>, 有疑问请联系客服</p>
+            <!-- <p><?php echo SYS_NAME ?>, 有疑问请联系客服</p> -->
         </div>
     </div>
 </div>
