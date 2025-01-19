@@ -78,27 +78,19 @@
             <div class="ico-scan"></div>
             <div class="tip-text">
                 <p>请使用支付宝扫一扫</p>
-                <p style="color: red">先扫红包更省钱</p>
+                <p>扫描二维码完成支付</p>
             </div>
-            <img src="https://s2.ax1x.com/2019/06/20/Vj4sWq.jpg" style="max-width: 70%; margin-top: 24px"/>
+            <!-- <img src="https://s2.ax1x.com/2019/06/20/Vj4sWq.jpg" style="max-width: 70%; margin-top: 24px"/> -->
         </div>
         <div class="tip-text">
         </div>
     </div>
     <div class="foot">
         <div class="inner">
-            <p><?php echo SYS_NAME ?>, 有疑问请联系客服</p>
+            <!-- <p><?php echo SYS_NAME ?>, 有疑问请联系客服</p> -->
         </div>
     </div>
     <!-- Modal Dialog -->
-    <div id="myModal" class="modal">
-        <!-- Modal content -->
-        <div class="modal-content">
-            <span class="close" id="dialog-close">&times;</span>
-            <img src="https://s2.ax1x.com/2019/06/20/Vj4sWq.jpg" style="max-width: 100%"/>
-        </div>
-
-    </div>
 </div>
 
 <script>
